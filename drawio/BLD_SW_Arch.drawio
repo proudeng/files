@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-24T04:18:50.554Z" agent="5.0 (Windows)" etag="dJ8iPxs0vQ2t7kqGtj2A" version="13.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-24T06:35:01.398Z" agent="5.0 (Windows)" etag="Gy1vXrqN4U9U7fPuVSfl" version="13.0.1" type="github">
   <diagram id="uOgTINElpu-IiV_9DuY3" name="第 1 页">
-    <mxGraphModel dx="1422" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,14 +250,6 @@
         <mxCell id="dFlJl_hiw3a20ZPzDVEA-3" value="App端" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="720" width="50" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="05-2KvZWrk6eqZvuZxqW" name="Page-2">
-    <mxGraphModel dx="1422" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="KT1tOf4fX-OqqLhYAclR-0" />
-        <mxCell id="KT1tOf4fX-OqqLhYAclR-1" parent="KT1tOf4fX-OqqLhYAclR-0" />
       </root>
     </mxGraphModel>
   </diagram>
