@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T07:18:46.793Z" agent="5.0 (Windows)" etag="hQ9d7iYGqaAtvRDoDGdO" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T08:03:57.243Z" agent="5.0 (Windows)" etag="JfYrwIH9S86NLXO_YAjI" version="13.1.1" type="github">
   <diagram id="QcdAoi0KGko8-FuSthRJ" name="第 1 页">
     <mxGraphModel dx="1422" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-1" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="400" as="sourcePoint" />
             <mxPoint x="670" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" target="O6M5dlXgHGTtqDc8b6_2-3">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" parent="1" target="O6M5dlXgHGTtqDc8b6_2-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="400" as="sourcePoint" />
             <mxPoint x="130" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-3" value="&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;1st reconfigureReInd()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;div&gt;sent to RAC &lt;br&gt;&lt;/div&gt;&lt;div&gt;ttiBundlingModeSwitch &lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-3" value="&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;1st reconfigureReInd()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;div&gt;sent to RAC &lt;br&gt;&lt;/div&gt;&lt;div&gt;ttiBundlingModeSwitch &lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="475" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" source="O6M5dlXgHGTtqDc8b6_2-10">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" parent="1" source="O6M5dlXgHGTtqDc8b6_2-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="310" as="sourcePoint" />
             <mxPoint x="240" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-7" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitTime&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-7" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitTime&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="420" as="sourcePoint" />
             <mxPoint x="460" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-8" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitMeasCount&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-8" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitMeasCount&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="450" as="sourcePoint" />
             <mxPoint x="400" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-10" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;cellReconfigReq()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;received with &lt;br&gt;&lt;/div&gt;&lt;div&gt;new TTI bundling &lt;br&gt;&lt;/div&gt;&lt;div&gt;prameters &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-10" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;cellReconfigReq()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;received with &lt;br&gt;&lt;/div&gt;&lt;div&gt;new TTI bundling &lt;br&gt;&lt;/div&gt;&lt;div&gt;prameters &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-11" value="&lt;div&gt;switch critera met &lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;with new parameters&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-11" value="&lt;div&gt;switch critera met &lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;with new parameters&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="250" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" source="O6M5dlXgHGTtqDc8b6_2-11">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" parent="1" source="O6M5dlXgHGTtqDc8b6_2-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="320" as="sourcePoint" />
             <mxPoint x="365" y="400" as="targetPoint" />
@@ -58,10 +58,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-13" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-13" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="320" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.463;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="O6M5dlXgHGTtqDc8b6_2-16">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.463;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="O6M5dlXgHGTtqDc8b6_2-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="400" as="sourcePoint" />
             <mxPoint x="520" y="473" as="targetPoint" />
@@ -70,20 +70,119 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-16" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;2nd reconfigureReInd()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;sent to RAC&lt;br&gt;&lt;/div&gt;&lt;div&gt;ttiBundlingModeSwitch&lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-16" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;2nd reconfigureReInd()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;sent to RAC&lt;br&gt;&lt;/div&gt;&lt;div&gt;ttiBundlingModeSwitch&lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="475" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-17" value="Time" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-17" value="Time" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="300" as="sourcePoint" />
             <mxPoint x="130" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O6M5dlXgHGTtqDc8b6_2-19" value="&lt;div&gt;switch critera met&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O6M5dlXgHGTtqDc8b6_2-19" value="&lt;div&gt;switch critera met&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="752" as="sourcePoint" />
+            <mxPoint x="670" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" target="4cB0ZWH5AcActp-1L1Xb-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="752" as="sourcePoint" />
+            <mxPoint x="130" y="782" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-19" value="&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;1st reconfigureReInd()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;div&gt;sent to RAC &lt;br&gt;&lt;/div&gt;&lt;div&gt;ttiBundlingModeSwitch &lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="827" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" source="4cB0ZWH5AcActp-1L1Xb-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="662" as="sourcePoint" />
+            <mxPoint x="240" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-21" value="&lt;font color=&quot;#CCCCCC&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitTime&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="772" as="sourcePoint" />
+            <mxPoint x="460" y="772" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-22" value="&lt;font color=&quot;#CCCCCC&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitMeasCount&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="802" as="sourcePoint" />
+            <mxPoint x="400" y="802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-23" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;cellReconfigReq()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;received with &lt;br&gt;&lt;/div&gt;&lt;div&gt;new TTI bundling &lt;br&gt;&lt;/div&gt;&lt;div&gt;prameters &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="597" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-24" value="&lt;div&gt;switch critera met &lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;with new parameters&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="602" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" source="4cB0ZWH5AcActp-1L1Xb-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="672" as="sourcePoint" />
+            <mxPoint x="365" y="752" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="682" />
+              <mxPoint x="380" y="712" />
+              <mxPoint x="390" y="682" />
+              <mxPoint x="380" y="702" />
+              <mxPoint x="334" y="712" />
+              <mxPoint x="520" y="702" />
+              <mxPoint x="360" y="682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-26" value="" style="line;strokeWidth=3;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;dashed=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="460" y="672" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.463;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4cB0ZWH5AcActp-1L1Xb-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="752" as="sourcePoint" />
+            <mxPoint x="520" y="825" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-28" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;2nd reconfigureReInd()&lt;/font&gt;&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;sent to RAC&lt;br&gt;&lt;/div&gt;&lt;div&gt;ttiBundlingModeSwitch&lt;br&gt;&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="840" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-29" value="Time" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="732" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="652" as="sourcePoint" />
+            <mxPoint x="130" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-31" value="&lt;div&gt;switch critera met&lt;/div&gt;&lt;div&gt;for &lt;font color=&quot;#0000CC&quot;&gt;UE X&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="612" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-32" value="" style="line;strokeWidth=3;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;dashed=1;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="235" y="762" width="10" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-33" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitTime&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="827" as="sourcePoint" />
+            <mxPoint x="550" y="827" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-34" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;ttiBundlingSwitchProhibitMeasCount&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="850" as="sourcePoint" />
+            <mxPoint x="495" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cB0ZWH5AcActp-1L1Xb-35" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="672" width="10" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
